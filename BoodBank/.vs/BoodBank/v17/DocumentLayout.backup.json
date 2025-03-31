@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\bldproject\\BoodBank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E621A64F-CBE2-42D6-8096-6A4A5C2A171F}|BoodBank\\BoodBank.csproj|C:\\bldproject\\BoodBank\\boodbank\\bloodtransferform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E621A64F-CBE2-42D6-8096-6A4A5C2A171F}|BoodBank\\BoodBank.csproj|solutionrelative:boodbank\\bloodtransferform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E621A64F-CBE2-42D6-8096-6A4A5C2A171F}|BoodBank\\BoodBank.csproj|c:\\bldproject\\boodbank\\boodbank\\bloodtransferform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E621A64F-CBE2-42D6-8096-6A4A5C2A171F}|BoodBank\\BoodBank.csproj|solutionrelative:boodbank\\bloodtransferform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E621A64F-CBE2-42D6-8096-6A4A5C2A171F}|BoodBank\\BoodBank.csproj|c:\\bldproject\\boodbank\\boodbank\\allpatientsdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E621A64F-CBE2-42D6-8096-6A4A5C2A171F}|BoodBank\\BoodBank.csproj|solutionrelative:boodbank\\allpatientsdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E621A64F-CBE2-42D6-8096-6A4A5C2A171F}|BoodBank\\BoodBank.csproj|C:\\bldproject\\BoodBank\\boodbank\\deletepatients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E621A64F-CBE2-42D6-8096-6A4A5C2A171F}|BoodBank\\BoodBank.csproj|solutionrelative:boodbank\\deletepatients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E621A64F-CBE2-42D6-8096-6A4A5C2A171F}|BoodBank\\BoodBank.csproj|C:\\bldproject\\BoodBank\\boodbank\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E621A64F-CBE2-42D6-8096-6A4A5C2A171F}|BoodBank\\BoodBank.csproj|solutionrelative:boodbank\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E621A64F-CBE2-42D6-8096-6A4A5C2A171F}|BoodBank\\BoodBank.csproj|C:\\bldproject\\BoodBank\\boodbank\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E621A64F-CBE2-42D6-8096-6A4A5C2A171F}|BoodBank\\BoodBank.csproj|solutionrelative:boodbank\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E621A64F-CBE2-42D6-8096-6A4A5C2A171F}|BoodBank\\BoodBank.csproj|C:\\bldproject\\BoodBank\\boodbank\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E621A64F-CBE2-42D6-8096-6A4A5C2A171F}|BoodBank\\BoodBank.csproj|solutionrelative:boodbank\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AllPatientsDetails.cs [Design]",
+              "DocumentMoniker": "C:\\bldproject\\BoodBank\\BoodBank\\AllPatientsDetails.cs",
+              "RelativeDocumentMoniker": "BoodBank\\AllPatientsDetails.cs",
+              "ToolTip": "C:\\bldproject\\BoodBank\\BoodBank\\AllPatientsDetails.cs [Design]",
+              "RelativeToolTip": "BoodBank\\AllPatientsDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T06:36:50.438Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\bldproject\\BoodBank\\BoodBank\\Dashboard.cs",
+              "RelativeDocumentMoniker": "BoodBank\\Dashboard.cs",
+              "ToolTip": "C:\\bldproject\\BoodBank\\BoodBank\\Dashboard.cs",
+              "RelativeToolTip": "BoodBank\\Dashboard.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAtwHEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T13:28:36.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\bldproject\\BoodBank\\BoodBank\\Dashboard.cs",
+              "RelativeDocumentMoniker": "BoodBank\\Dashboard.cs",
+              "ToolTip": "C:\\bldproject\\BoodBank\\BoodBank\\Dashboard.cs [Design]",
+              "RelativeToolTip": "BoodBank\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T13:28:16.817Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "function.cs",
+              "DocumentMoniker": "C:\\bldproject\\BoodBank\\BoodBank\\function.cs",
+              "RelativeDocumentMoniker": "BoodBank\\function.cs",
+              "ToolTip": "C:\\bldproject\\BoodBank\\BoodBank\\function.cs",
+              "RelativeToolTip": "BoodBank\\function.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T13:10:21.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BloodTransferForm.cs",
+              "DocumentMoniker": "C:\\bldproject\\BoodBank\\BoodBank\\BloodTransferForm.cs",
+              "RelativeDocumentMoniker": "BoodBank\\BloodTransferForm.cs",
+              "ToolTip": "C:\\bldproject\\BoodBank\\BoodBank\\BloodTransferForm.cs*",
+              "RelativeToolTip": "BoodBank\\BloodTransferForm.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T13:08:26.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BloodTransferForm.cs [Design]",
+              "DocumentMoniker": "C:\\bldproject\\BoodBank\\BoodBank\\BloodTransferForm.cs",
+              "RelativeDocumentMoniker": "BoodBank\\BloodTransferForm.cs",
+              "ToolTip": "C:\\bldproject\\BoodBank\\BoodBank\\BloodTransferForm.cs [Design]*",
+              "RelativeToolTip": "BoodBank\\BloodTransferForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:47:27.766Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeletePatients.cs [Design]",
+              "DocumentMoniker": "C:\\bldproject\\BoodBank\\BoodBank\\DeletePatients.cs",
+              "RelativeDocumentMoniker": "BoodBank\\DeletePatients.cs",
+              "ToolTip": "C:\\bldproject\\BoodBank\\BoodBank\\DeletePatients.cs [Design]",
+              "RelativeToolTip": "BoodBank\\DeletePatients.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T06:45:57.415Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
